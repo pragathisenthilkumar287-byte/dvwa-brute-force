@@ -278,5 +278,7 @@ This project is intended for educational use and authorized security testing. Wo
 
 The tool is not intended for unauthorized access to real accounts or systems.
 
+DevSecOps Pipeline: GitHub Actions, CodeQL, and pip-audit
 
 
+DevSecOps Pipeline: GitHub Actions, CodeQL, and pip-audit
